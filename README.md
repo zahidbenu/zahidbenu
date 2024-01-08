@@ -1,4 +1,4 @@
--         👋 Hi-ya!
+-    👋 Hi-ya!
 - 👤 I go by the name Zahid Hasan.
 - 🔍 I’m interested in discovering new opportunities and pushing the boundaries of web development.
 - 📚 I’m currently learning and expanding my knowledge in advanced PHP and mastering the intricacies of WordPress theme and plugin development.
