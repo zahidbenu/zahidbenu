@@ -116,7 +116,7 @@
   <a href="https://www.linkedin.com/in/zahidbenu/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:markupmaestro@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://codepen.io/zahidbenu"><img src="https://skillicons.dev/icons?i=codepen" /></a>
-  <a href="https://t.me/zahidbenu"><img src="https://img.shields.io/badge/Telegram-%230099FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://t.me/zahidbenu"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="50" /></a>
 </p>
 
 ---
