@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=700&size=24&color=F35444&center=true&vCenter=true&width=600&lines=Pixel+Perfect+Frontend+Expert;WordPress+Theme+Developer;Shopify+Theme+Developer;PHP+Learner;Ecommerce+Solution+For+Woocommerce" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=700&size=24&color=F35444&center=true&vCenter=true&width=600&lines=Pixel+Perfect+Front-End+Expert;WordPress+Theme+Developer;Shopify+Theme+Developer;PHP+Learner;Ecommerce+Solution+For+Woocommerce" />
 </p>
 
 ---
