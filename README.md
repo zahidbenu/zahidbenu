@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=700&size=24&color=F35444&center=true&vCenter=true&width=600&lines=WordPress+Theme+Developer;Shopify+Theme+Developer;PHP+Learner;Pixel+Perfect+Frontend+Expert;Ecommerce+Solution+Builder" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=700&size=24&color=F35444&center=true&vCenter=true&width=600&lines=WordPress+Theme+Developer;Shopify+Theme+Developer;PHP+Learner;Pixel+Perfect+Frontend+Expert;Ecommerce+Solution+For+Woocommerce" />
 </p>
 
 ---
@@ -18,7 +18,6 @@
 
 ## About Me
 
--  Hi-ya!
 -  Career-focused on discovering new opportunities and pushing the boundaries of web development  
 -  I care about clean code, performance & scalability  
 -  Currently mastering **PHP & WordPress Plugin Development**  
@@ -35,7 +34,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,jquery" />
 </p>
 
-### ⚙️ Backend
+### Backend
 <p>
 <img src="https://skillicons.dev/icons?i=php,mysql" />
 </p>
@@ -72,7 +71,6 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zahidbenu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zahidbenu&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
