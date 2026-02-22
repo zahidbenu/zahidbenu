@@ -16,21 +16,21 @@
 
 <!-- ======================= ABOUT ======================= -->
 
-## 🚀 About Me
+## About Me
 
-- 👋 Hi-ya!
-- 🎯 Career-focused on discovering new opportunities and pushing the boundaries of web development  
-- 🔍 I care about clean code, performance & scalability  
-- 📚 Currently mastering **PHP & WordPress Plugin Development**  
-- 🤝 Open to collaborating on creative and impactful web projects  
+-  Hi-ya!
+-  Career-focused on discovering new opportunities and pushing the boundaries of web development  
+-  I care about clean code, performance & scalability  
+-  Currently mastering **PHP & WordPress Plugin Development**  
+-  Open to collaborating on creative and impactful web projects  
 
 ---
 
 <!-- ======================= TECH STACK ======================= -->
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 🎨 Frontend
+### Frontend
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,jquery" />
 </p>
@@ -40,14 +40,14 @@
 <img src="https://skillicons.dev/icons?i=php,mysql" />
 </p>
 
-### 🧩 CMS & Ecommerce
+### CMS & Ecommerce
 <p>
 <img src="https://skillicons.dev/icons?i=wordpress" />
 <img src="https://cdn.worldvectorlogo.com/logos/shopify.svg" width="48" />
 <img src="https://cdn.worldvectorlogo.com/logos/woocommerce.svg" width="48" />
 </p>
 
-### 🔧 Tools
+### Tools
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
@@ -56,20 +56,20 @@
 
 <!-- ======================= SERVICES ======================= -->
 
-## 💼 What I Do
+## What I Do
 
-✨ Custom Shopify Store Development  
-✨ WordPress Website Development  
-✨ Elementor Design & Customization  
-✨ WooCommerce Solutions  
-✨ Fully Responsive & Pixel-Perfect Layouts  
-✨ Speed & Performance Optimization  
+- Custom Shopify Store Development  
+- WordPress Website Development  
+- Elementor Design & Customization  
+- WooCommerce Solutions  
+- Fully Responsive & Pixel-Perfect Layouts  
+- Speed & Performance Optimization  
 
 ---
 
 <!-- ======================= STATS ======================= -->
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zahidbenu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
@@ -78,25 +78,9 @@
 
 ---
 
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahidbenu&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zahidbenu&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
 <!-- ======================= CURRENT LEARNING ======================= -->
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - Advanced PHP Architecture  
 - WordPress Plugin Development  
@@ -107,40 +91,41 @@
 
 <!-- ======================= GOALS ======================= -->
 
-## 🎯 2026 Goals
+## 2026 Goals
 
-- 🚀 Become a top WordPress & Shopify Engineer  
-- 🌍 Contribute to Open Source  
-- 🧠 Build scalable ecommerce platforms  
-- 🤝 Work with global clients  
+-  Become a top WordPress & Shopify Engineer  
+-  Contribute to Open Source  
+-  Build scalable ecommerce platforms  
+-  Work with global clients  
 
 ---
 
 <!-- ======================= PROJECT / PORTFOLIO ======================= -->
 
-## 🌐 Portfolio
+## Portfolio
 
-🔗 **Visit My Portfolio:**  
-👉 https://markupmaestro.great-site.net/
+ **Visit My Portfolio:**  
+ https://markupmaestro.great-site.net/
 
 ---
 
 <!-- ======================= CONNECT ======================= -->
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://github.com/zahidbenu"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="https://www.linkedin.com/in/zahidbenu/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:markupmaestro@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://markupmaestro.great-site.net/"><img src="https://skillicons.dev/icons?i=webflow" /></a>
+  <a href="https://codepen.io/zahidbenu"><img src="https://skillicons.dev/icons?i=codepen" /></a>
+  <a href="https://t.me/zahidbenu"><img src="https://skillicons.dev/icons?i=telegram" /></a>
 </p>
 
 ---
 
 <!-- ======================= VISITOR COUNTER ======================= -->
 
-## 👀 Profile Views
+## Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zahidbenu&label=Profile%20views&color=0e75b6&style=flat" />
@@ -150,12 +135,12 @@
 
 <!-- ======================= FUN FACT ======================= -->
 
-## ⭐ Fun Fact
+## Fun Fact
 
-💡 I love turning ideas into real, functional & high-performing digital experiences.
+ I love turning ideas into real, functional & high-performing digital presence.
 
 ---
 
 <p align="center">
-  ✨ Thanks for visiting my profile! ✨
+  Thanks for your glimpse on my profile!
 </p>
