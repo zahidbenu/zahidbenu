@@ -1,26 +1,32 @@
-<!-- Animated Typing Header -->
-<h1 align="center">
-  Hi 👋, I'm Zahid Hasan
-</h1>
+<!-- ======================= HEADER ======================= -->
+
+<h1 align="center">Hi!, I'm Zahid Hasan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0AFFEF&center=true&vCenter=true&width=600&lines=Front-End+%26+Ecommerce+Developer;WordPress+%7C+Shopify+Expert;PHP+Learner;Pixel+Perfect+UI+Creator" />
+  <strong>Front-End, Shopify & Wordpress Developer</strong><br>
+  I create custom Shopify themes & WordPress websites with Elementor, Tailwind & WooCommerce.<br>
+  I deliver responsive, fast & pixel-perfect solutions tailored to your needs.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=WordPress+Theme+Developer;Shopify+Theme+Developer;PHP+Learner;Pixel+Perfect+Frontend+Expert;Ecommerce+Solution+Builder" />
 </p>
 
 ---
 
+<!-- ======================= ABOUT ======================= -->
+
 ## 🚀 About Me
 
-💼 **Front-End, Shopify & Wordpress Developer**  
-I create custom **Shopify & WordPress websites** using **Elementor, Tailwind & WooCommerce**.  
-I deliver **responsive, fast & pixel-perfect** solutions tailored to business needs.
-
-- 🔍 Career-focused on growing as a modern web engineer  
+- 👋 Hi-ya!
+- 🎯 Career-focused on discovering new opportunities and pushing the boundaries of web development  
+- 🔍 I care about clean code, performance & scalability  
 - 📚 Currently mastering **PHP & WordPress Plugin Development**  
-- 🤝 Open to collaborating on creative web projects  
-- ⚡ Performance, scalability & clean code matter to me  
+- 🤝 Open to collaborating on creative and impactful web projects  
 
 ---
+
+<!-- ======================= TECH STACK ======================= -->
 
 ## 🛠️ Tech Stack
 
@@ -48,11 +54,26 @@ I deliver **responsive, fast & pixel-perfect** solutions tailored to business ne
 
 ---
 
+<!-- ======================= SERVICES ======================= -->
+
+## 💼 What I Do
+
+✨ Custom Shopify Store Development  
+✨ WordPress Website Development  
+✨ Elementor Design & Customization  
+✨ WooCommerce Solutions  
+✨ Fully Responsive & Pixel-Perfect Layouts  
+✨ Speed & Performance Optimization  
+
+---
+
+<!-- ======================= STATS ======================= -->
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zahidbenu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zahidbenu&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -60,7 +81,7 @@ I deliver **responsive, fast & pixel-perfect** solutions tailored to business ne
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahidbenu&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -68,10 +89,12 @@ I deliver **responsive, fast & pixel-perfect** solutions tailored to business ne
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zahidbenu&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
+
+<!-- ======================= CURRENT LEARNING ======================= -->
 
 ## 🌱 Currently Learning
 
@@ -82,45 +105,50 @@ I deliver **responsive, fast & pixel-perfect** solutions tailored to business ne
 
 ---
 
+<!-- ======================= GOALS ======================= -->
+
 ## 🎯 2026 Goals
 
 - 🚀 Become a top WordPress & Shopify Engineer  
 - 🌍 Contribute to Open Source  
-- 🧠 Build scalable SaaS & ecommerce platforms  
+- 🧠 Build scalable ecommerce platforms  
 - 🤝 Work with global clients  
 
 ---
 
-## 🤝 Let’s Collaborate
+<!-- ======================= PROJECT / PORTFOLIO ======================= -->
 
-I’m available for:
+## 🌐 Portfolio
 
-✔ Custom Shopify Stores  
-✔ WordPress Theme & Plugin Development  
-✔ WooCommerce Solutions  
-✔ Speed Optimization  
-✔ Pixel-perfect Frontend Development  
+🔗 **Visit My Portfolio:**  
+👉 https://markupmaestro.great-site.net/
 
 ---
 
-## 🌐 Connect With Me
+<!-- ======================= CONNECT ======================= -->
+
+## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/yourusername"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://yourportfolio.com"><img src="https://skillicons.dev/icons?i=webflow" /></a>
+  <a href="https://github.com/zahidbenu"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://www.linkedin.com/in/zahidbenu/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:markupmaestro@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://markupmaestro.great-site.net/"><img src="https://skillicons.dev/icons?i=webflow" /></a>
 </p>
 
 ---
+
+<!-- ======================= VISITOR COUNTER ======================= -->
 
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=zahidbenu&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
+
+<!-- ======================= FUN FACT ======================= -->
 
 ## ⭐ Fun Fact
 
