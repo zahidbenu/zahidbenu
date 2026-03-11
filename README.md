@@ -103,10 +103,12 @@
 
 ## Portfolio
 
- **Visit My Portfolio:**  
-<a href="https://markupmaestro.great-site.net/" target="_blank" style="color:#F35444;">
-  <img src="https://markupmaestro.great-site.net/assets/favicon/favicon.ico" width="18" style="vertical-align:middle;"> Markup Maestro
-</a>
+<p>
+  <strong>Visit My Portfolio:</strong><br>
+  <a href="https://markupmaestro.great-site.net/" target="_blank">
+    <img src="https://markupmaestro.great-site.net/assets/favicon/favicon.ico" width="18"> Markup Maestro
+  </a>
+</p>
 
 ---
 
