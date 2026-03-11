@@ -8,9 +8,14 @@
   I deliver responsive, fast & pixel-perfect solutions tailored to your needs.
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=700&size=42&pause=1000&color=F35444&center=true&vCenter=true&width=900&lines=Pixel+Perfect+Front-End+Expert;WordPress+Theme+Developer;Shopify+Theme+Developer;PHP+Learner;Ecommerce+Solutions+For+WooCommerce" />
-</h1>
+<p align="center">
+<svg width="100%" height="40">
+  <text x="100%" y="25" fill="#F35444" font-size="22" font-weight="bold">
+    Pixel Perfect Front-End Expert • WordPress Theme Developer • Shopify Theme Developer • PHP Learner • WooCommerce Ecommerce Solutions
+    <animate attributeName="x" from="100%" to="-100%" dur="12s" repeatCount="indefinite"/>
+  </text>
+</svg>
+</p>
 
 ---
 
