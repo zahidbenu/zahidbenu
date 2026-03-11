@@ -18,7 +18,7 @@
 
 ## About Me
 
--  Career-focused on discovering new opportunities and pushing the boundaries of web development  
+-  I am passionate web developer. 
 -  I care about clean code, performance & scalability  
 -  Currently mastering **PHP & WordPress Plugin Development**  
 -  Open to collaborating on creative and impactful web projects  
@@ -92,7 +92,7 @@
 
 ## 2026 Goals
 
--  Become a top WordPress & Shopify Engineer  
+-  Become a modern WordPress & Shopify Engineer  
 -  Contribute to Open Source  
 -  Build scalable ecommerce platforms  
 -  Work with global clients  
@@ -104,7 +104,9 @@
 ## Portfolio
 
  **Visit My Portfolio:**  
- https://markupmaestro.great-site.net/
+<a href="https://markupmaestro.great-site.net/" target="_blank">
+  <img src="https://markupmaestro.great-site.net/favicon.ico" width="20"/> Markup Maestro
+</a>
 
 ---
 
