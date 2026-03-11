@@ -103,9 +103,11 @@
 
 ## Portfolio
 
-**Visit My Portfolio:**
-[![Portfolio](https://img.shields.io/badge/Portfolio-Markup_Maestro-F35444?style=for-the-badge&logo=google-chrome)](https://markupmaestro.great-site.net/)
-
+<p align="center">
+<a href="https://markupmaestro.great-site.net/">
+<img src="https://img.shields.io/badge/Visit-My_Portfolio-F35444?style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
+</p>
 ---
 
 <!-- ======================= CONNECT ======================= -->
