@@ -8,14 +8,11 @@
   I deliver responsive, fast & pixel-perfect solutions tailored to your needs.
 </p>
 
-<p align="center">
-<svg width="100%" height="40">
-  <text x="100%" y="25" fill="#F35444" font-size="22" font-weight="bold">
-    Pixel Perfect Front-End Expert • WordPress Theme Developer • Shopify Theme Developer • PHP Learner • WooCommerce Ecommerce Solutions
-    <animate attributeName="x" from="100%" to="-100%" dur="12s" repeatCount="indefinite"/>
-  </text>
-</svg>
-</p>
+<h2 align="center" style="color:#F35444;">
+  <marquee behavior="scroll" direction="left" scrollamount="6">
+    🚀 Pixel Perfect Front-End Expert • WordPress Theme Developer • Shopify Theme Developer • PHP Learner • WooCommerce Ecommerce Solutions
+  </marquee>
+</h2>
 
 ---
 
