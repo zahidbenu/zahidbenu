@@ -105,7 +105,7 @@
 
  **Visit My Portfolio:**  
 <a href="https://markupmaestro.great-site.net/" target="_blank">
-  <img src="https://markupmaestro.great-site.net/favicon.ico" width="20"/> Markup Maestro
+  <img src="https://markupmaestro.great-site.net/assets/favicon/favicon.ico" width="20"/> Markup Maestro
 </a>
 
 ---
