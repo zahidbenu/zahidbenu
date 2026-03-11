@@ -8,9 +8,9 @@
   I deliver responsive, fast & pixel-perfect solutions tailored to your needs.
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=700&size=32&pause=1000&color=F35444&center=true&vCenter=true&width=1000&lines=Pixel+Perfect+Front-End+Expert;WordPress+Theme+Developer;Shopify+Theme+Developer;PHP+Learner;Ecommerce+Solutions+for+WooCommerce" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=700&size=42&pause=1000&color=F35444&center=true&vCenter=true&width=900&lines=Pixel+Perfect+Front-End+Expert;WordPress+Theme+Developer;Shopify+Theme+Developer;PHP+Learner;Ecommerce+Solutions+For+WooCommerce" />
+</h1>
 
 ---
 
