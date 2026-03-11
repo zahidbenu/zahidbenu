@@ -103,12 +103,7 @@
 
 ## Portfolio
 
-<p>
-  <strong>Visit My Portfolio:</strong><br>
-  <a href="https://markupmaestro.great-site.net/" target="_blank">
-    <img src="https://markupmaestro.great-site.net/assets/favicon/favicon.ico" width="18"> Markup Maestro
-  </a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Markup_Maestro-F35444?style=for-the-badge&logo=google-chrome)](https://markupmaestro.great-site.net/)
 
 ---
 
