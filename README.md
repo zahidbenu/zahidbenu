@@ -5,7 +5,7 @@
 <p align="center">
   <strong>Front-End, Shopify & Wordpress Developer</strong><br>
   I create custom Shopify themes & WordPress websites with Elementor, Tailwind & WooCommerce.<br>
-  I deliver responsive, fast & pixel-perfect solutions tailored to your needs.
+  I deliver responsive, fast & pixel-perfect solutions customized to your needs.
 </p>
 
 <p align="center">
